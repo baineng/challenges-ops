@@ -1,0 +1,3 @@
+[submodule "challenges-shell"]
+	path = challenges-shell
+	url = git@github.com:baineng/challenges-shell.git
